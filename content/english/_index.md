@@ -1,13 +1,14 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
+  title: "TRÄNING FÖR DITT EGNA BÄSTA"
+  content: "Träning och friluftsliv är viktigt för alla. Att komma ut och röra på sig har tusentals positiva effekter på din kropp men det är miljontals människor som gör det allt för sällan. Med denna webbplats och våra andra projekt vill vi uppmuntra personer att träning är roligt, hälsosamt och äventyrsrikt. 
+"
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+    label: "Våra projekt"
+    link: "elements/"
 
 # Features
 features:

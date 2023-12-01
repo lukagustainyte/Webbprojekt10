@@ -2,63 +2,38 @@
 
 # main menu
 [[main]]
-name = "Home"
+name = "Hem"
 url = "/"
 weight = 1
 
 [[main]]
-name = "About"
+name = "Om oss"
 url = "about/"
 weight = 2
 
 [[main]]
-name = "Elements"
+name = "Projekt"
 url = "elements/"
 weight = 3
 
 [[main]]
 weight = 4
-name = "Pages"
-hasChildren = true
-
-[[main]]
-parent = "Pages"
-name = "Blog"
-url = "blog/"
-
-[[main]]
-parent = "Pages"
-name = "Contact"
-url = "contact/"
-
-[[main]]
-parent = "Pages"
-name = "Authors"
-url = "authors/"
-
-[[main]]
-parent = "Pages"
-name = "Categories"
-url = "categories/"
-
-[[main]]
-parent = "Pages"
-name = "404 Page"
-url = "404/"
+name = "Kontakta oss"
+url = "pages/"
 
 
 # footer menu
 [[footer]]
-name = "About"
+name = "Om oss"
 url = "about/"
 weight = 1
 
 [[footer]]
-name = "Elements"
+name = "Kontakta oss"
 url = "elements/"
 weight = 2
 
 [[footer]]
-name = "Privacy Policy"
-url = "privacy-policy/"
+name = "Projekt"
+url = "elements/"
 weight = 3

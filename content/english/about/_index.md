@@ -6,7 +6,8 @@ image: "/images/avatar.png"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt, hej jag heter loka. nåt extra. hejhejhejhejhjehje
+Jag heter Luka Gustainyte, är 20 år och pluggar Medieteknik här på Malmö Universitet. Träning och friluftsliv har varit en stor del av mitt liv och därför är jag väldigt glad över att göra detta projekt.  
+
 
 ---
 title: "Alina"
