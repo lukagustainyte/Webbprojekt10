@@ -2,7 +2,7 @@
 title: "Luka"
 meta_title: "About"
 description: "this is meta description"
-image: "/images/avatar.png"
+image: "/images/CV foto 1.png"
 draft: false
 ---
 
@@ -10,4 +10,8 @@ Jag heter Luka Gustainyte, är 20 år och pluggar Medieteknik här på Malmö Un
 
 
 ---
-title: "Alina"
+Alina 
+---
+image: "/images/"
+---
+Jag heter Alina Gabrielsson och pluggar Medieteknik på Malmö Universitet. Under sommaren åker jag och min familj till vårt sommarhus och är ofta ute i naturen, därför ser jag väldigt fram emot att göra detta projekt.   

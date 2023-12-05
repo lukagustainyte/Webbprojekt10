@@ -2,14 +2,19 @@
   "main": [
   
     {
-      "name": "linkedin",
+      "name": "linkedin Luka",
       "icon": "fab fa-linkedin",
       "link": "https://www.linkedin.com/in/luka-gustainyte-702981243/"
     },
     {
-      "name": "linkedin",
+      "name": "linkedin Alina",
       "icon": "fab fa-linkedin",
       "link": "https://www.linkedin.com/in/alina-gabrielsson-699023280/"
+    },
+    {
+      "name": "Runnersworld",
+      "icon": "fab fa-facebook",
+      "link": "https://www.facebook.com/runnersworldsweden/?locale=sv_SE"
     }
   ]
 }
