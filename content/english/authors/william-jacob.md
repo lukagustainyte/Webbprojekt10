@@ -1,6 +1,6 @@
 ---
-title: William Jacob
-email: williamjacob@email.com
+title: Alina Gabrielsson
+email: alinagabrielsson@gmail.com
 image: "/images/avatar.png"
 description: this is meta description
 social:
@@ -14,7 +14,7 @@ social:
 
   - name: linkedin
     icon: fa-brands fa-linkedin
-    link: https://linkedin.com
+    link: https://www.linkedin.com/in/alina-gabrielsson-699023280/
 ---
 
-lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.
+Jag heter Alina Gabrielsson och pluggar Medieteknik på Malmö Universitet. Under sommaren åker jag och min familj till vårt sommarhus och är ofta ute i naturen, därför ser jag väldigt fram emot att göra detta projekt.   

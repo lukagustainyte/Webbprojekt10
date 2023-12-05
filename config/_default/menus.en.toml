@@ -8,7 +8,7 @@ weight = 1
 
 [[main]]
 name = "Om oss"
-url = "about/"
+url = "authors/"
 weight = 2
 
 [[main]]
@@ -19,18 +19,18 @@ weight = 3
 [[main]]
 weight = 4
 name = "Kontakta oss"
-url = "pages/"
+url = "about/"
 
 
 # footer menu
 [[footer]]
 name = "Om oss"
-url = "about/"
+url = "authors/"
 weight = 1
 
 [[footer]]
 name = "Kontakta oss"
-url = "pages/"
+url = "about/"
 weight = 2
 
 [[footer]]

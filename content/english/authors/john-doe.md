@@ -1,6 +1,6 @@
 ---
-title: John Doe
-email: johndoe@email.com
+title: Luka Gustainyte
+email: luka100303@gmail.com
 image: "/images/avatar.png"
 description: this is meta description
 social:
@@ -14,7 +14,7 @@ social:
 
   - name: linkedin
     icon: fa-brands fa-linkedin
-    link: https://linkedin.com
+    link: https://www.linkedin.com/in/luka-gustainyte-702981243/
 ---
 
-lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.
+Jag heter Luka Gustainyte, är 20 år och pluggar Medieteknik här på Malmö Universitet. Träning och friluftsliv har varit en stor del av mitt liv och därför är jag väldigt glad över att göra detta projekt.  hehehhehhehehehhehehehhehehehhehehehhe
