@@ -1,17 +1,10 @@
 ---
 title: Luka Gustainyte
 email: luka100303@gmail.com
-image: "/images/avatar.png"
+image: "/images/CV foto png 72.png"
 description: this is meta description
 social:
-  - name: github
-    icon: fa-brands fa-github
-    link: https://github.com
-
-  - name: twitter
-    icon: fa-brands fa-twitter
-    link: https://twitter.com
-
+  
   - name: linkedin
     icon: fa-brands fa-linkedin
     link: https://www.linkedin.com/in/luka-gustainyte-702981243/

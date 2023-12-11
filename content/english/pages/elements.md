@@ -14,6 +14,7 @@ Here is an example of headings. You can use this heading by the following markdo
 
 # Heading 1
 
+
 ## Heading 2
 
 ### Heading 3
@@ -44,55 +45,21 @@ Strike through uses two tildes. ~~Scratch this.~~
 
 <hr>
 
-### Link
+### Reportage
 
-[I'm an inline-style link](https://www.google.com)
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links.
-<http://www.example.com> or <http://www.example.com> and sometimes
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.themefisher.com
-[1]: https://gethugothemes.com
-[link text itself]: https://www.getjekyllthemes.com
+<iframe src="https://drive.google.com/file/d/1lQ2HIVEzkWFMZuCtIVrrJN6HnaMsL1FP/preview" width="640" height="480" allow="autoplay"></iframe>
 
 <hr>
 
-### Paragraph
+### 
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.
+Vi har fått möjligheten att göra ett litet reportage som skulle likna och inspireras av en annan, redan existerande tidning. Jag och Alina skulle förhålla oss till temat “friluftsliv” och det tog inte lång tid innan vi bestämde oss för att det skulle vara lite mode och hälsa stuk på det hela. Varför vi valde att skriva om just träningskläder och skor, samt hälsoeffekterna av träning/friluftsliv, var för att vi båda är intresserade av mode samt tycker att hälsa är väldigt viktigt, även i våra egna liv. Det blev tidningen "Runner’s World" eftersom vi gillade designen på den samt tyckte om ämnena i tidningen, så skulle passa det vi ville skriva om. Tillslut kom vi igång med själva designen av det hela och valde att förhålla oss till den gröna färgen för att få in friluftslivs temat lite extra. Vi var även ute och fotade lite bilder när vi “tränade”, vilket var superkul men även utmanande med så lite dagsljus man får nu på höst- och vinterhalvåret. 
 
-<hr>
-
-### Ordered List
-
-1. List item
-2. List item
-3. List item
-4. List item
-5. List item
+Jag och Alina är nöjda med att presentera vårt lilla reportage och hoppas även att ni också inspireras och tycker om det! 
 
 <hr>
 
-### Unordered List
 
-- List item
-- List item
-- List item
-- List item
-- List item
 
 <hr>
 
@@ -219,6 +186,7 @@ print s
 ### Gallery
 
 {{< gallery dir="images/gallery" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+
 
 <hr>
 
