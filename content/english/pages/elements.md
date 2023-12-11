@@ -204,4 +204,6 @@ print s
 
 ### Custom video
 
-{{< video src="https://www.w3schools.com/html/mov_bbb.mp4" width="100%" height="auto" autoplay="false" loop="false" muted="false" controls="true" class="rounded-lg" >}}
+{{< video src="https://drive.google.com/file/d/1Pn9bMkLI8Vg8mF35ZWOV487rYpoTn0_D/preview" width="100%" height="auto" autoplay="false" loop="false" muted="false" controls="true" class="rounded-lg" >}}
+
+<iframe src="https://drive.google.com/file/d/1Pn9bMkLI8Vg8mF35ZWOV487rYpoTn0_D/preview" width="640" height="480" allow="autoplay"></iframe>

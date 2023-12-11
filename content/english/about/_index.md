@@ -2,7 +2,7 @@
 title: "Kontakta Oss"
 meta_title: "About"
 description: "this is meta description"
-image: "/images/CV foto 1.png"
+image: "/images/lukaoalina.png"
 draft: false
 ---
 
