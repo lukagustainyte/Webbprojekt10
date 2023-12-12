@@ -10,4 +10,4 @@ social:
     link: https://www.linkedin.com/in/luka-gustainyte-702981243/
 ---
 
-Jag heter Luka Gustainyte, är 20 år och pluggar Medieteknik här på Malmö Universitet. Träning och friluftsliv har varit en stor del av mitt liv och därför är jag väldigt glad över att göra detta projekt.  hehehhehhehehehhehehehhehehehhehehehhe
+Jag heter Luka Gustainyte, är 20 år och pluggar Medieteknik här på Malmö Universitet, Träning och friluftsliv har varit en stor del av mitt liv och därför är jag väldigt glad över att göra detta projekt.  
