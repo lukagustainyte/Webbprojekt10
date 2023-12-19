@@ -11,7 +11,7 @@ draft: false
 
 <hr>
 
-##### Här nedan har vi några av projekten som vi har arbetat med i kursen medieproduktion. Vi har förhållit oss till temat friluftsliv och försökt att vara informativa men också inspirerande till att ta sig ut i naturen med samband av tärning. Vi hoppas på att du blir glad och inspirerad av både vårt reportage men också vår inspirationsfilm.  
+##### Här nedan har vi några av projekten som vi har arbetat med i kursen medieproduktion. Vi har förhållit oss till temat friluftsliv och försökt att vara informativa men också inspirerande till att ta sig ut i naturen med samband av träning. Vi hoppas på att du blir glad och inspirerad av både vårt reportage men också vår inspirationsfilm.  
 <hr>
 
 ### REPORTAGE
